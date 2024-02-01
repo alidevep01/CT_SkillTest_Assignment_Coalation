@@ -1,0 +1,28 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "cSpell.checkOnlyEnabledFileTypes": false,
+  "editor.formatOnPaste": false,
+  "cSpell.words": [
+    "adipisicing",
+    "amet",
+    "aspernatur",
+    "blanditiis",
+    "consectetur",
+    "doloribus",
+    "ducimus",
+    "eligendi",
+    "elit",
+    "Excepturi",
+    "exercitationem",
+    "harum",
+    "mollitia",
+    "neque",
+    "quaerat",
+    "repellat",
+    "soluta",
+    "temporibus",
+    "veritatis",
+    "vero"
+  ]
+}
